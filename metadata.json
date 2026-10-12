@@ -1,0 +1,6 @@
+{
+  "name": "RzzStalker",
+  "description": "Platform pencarian informasi publik media sosial melalui link saluran atau username untuk WhatsApp Channel, TikTok, Instagram, dan Twitter/X.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
